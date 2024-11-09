@@ -28,10 +28,12 @@ h3 mark {
 h2 mark {
     background-color: #36629E;
     color: white
+    border-radius: 8px;
 }
 b {
     color: #4B89DC;
 }
 div {
     background-color: #447CC7;
+    border-radius: 8px;
 }
