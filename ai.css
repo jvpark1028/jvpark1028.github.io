@@ -20,19 +20,23 @@ h3 {
 }
 p {
     font-size: 20px;
+    font-weight:600;font-family:  sans-serif;
 }
 h3 mark {
-    background-color: rgb(140, 140, 140);
-    color: white
-    border-radius: 8px;
+    background-color: #35619D;
+    border-radius:8px;
+    color: black
+
 }
 h2 mark {
     background-color: #36629E;
-    color: white
     border-radius: 8px;
+    color: black
 }
 b {
-    color: #203A5E;
+    color: #92B3B7;
+    font-weight: 900;
+
 }
 div {
     background-color: #447CC7;
