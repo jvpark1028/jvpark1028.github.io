@@ -24,6 +24,7 @@ p {
 h3 mark {
     background-color: rgb(140, 140, 140);
     color: white
+    border-radius: 8px;
 }
 h2 mark {
     background-color: #36629E;
@@ -31,7 +32,7 @@ h2 mark {
     border-radius: 8px;
 }
 b {
-    color: #4B89DC;
+    color: #203A5E;
 }
 div {
     background-color: #447CC7;
