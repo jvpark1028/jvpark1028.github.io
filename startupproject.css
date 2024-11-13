@@ -1,0 +1,17 @@
+.nanum-gothic-coding-regular {
+    font-family: "Nanum Gothic Coding", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+div {
+    text-align: center;
+}
+h1 {
+    font-size: 200%;
+}
+img {
+    width: 400px;
+}
+h2 {
+    text-align: left;
+}
